@@ -8,13 +8,13 @@ Stable, dependency, base for simplifying Node scaffolds.
 
 # How Do I Use This?
 
-Using the latest and greatest Node: `9.2.1`
+Using the latest and greatest Node: `8.8.0`
 
 ```
 {
 	//...
-    "devDependencies": {
-    	"webpack_pack": "git+https://github.com/Thoughtscript/webpack_pack.git"
-  	},
-  	/...
+	"devDependencies": {
+		"webpack_pack": "git+https://github.com/Thoughtscript/webpack_pack.git"
+	},
+	/...
 }
