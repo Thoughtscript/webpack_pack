@@ -10,11 +10,11 @@ Stable, dependency, base for simplifying Node scaffolds.
 
 Using the latest and greatest Node: `9.2.1`
 
-```json
+```
 {
 	//...
     "devDependencies": {
-    	webpack_pack: git+https://github.com/Thoughtscript/webpack_pack.git
+    	"webpack_pack": "git+https://github.com/Thoughtscript/webpack_pack.git"
   	},
   	/...
 }
