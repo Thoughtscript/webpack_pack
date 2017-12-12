@@ -8,7 +8,7 @@ Stable, dependency, base for simplifying Node scaffolds.
 
 # How Do I Use This?
 
-Using the latest and greatest Node: `8.8.0`
+Using Node: `8.8.0`
 
 ```
 {
@@ -18,3 +18,6 @@ Using the latest and greatest Node: `8.8.0`
 	},
 	/...
 }
+```
+
+Then, since those dependencies live in your `node_modules`, you can `require` or `import` them normally. Hooray!
